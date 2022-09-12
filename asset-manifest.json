@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Ipod-Mini-Project/static/css/main.69eda509.chunk.css",
+    "main.js": "/Ipod-Mini-Project/static/js/main.cc9745f4.chunk.js",
+    "main.js.map": "/Ipod-Mini-Project/static/js/main.cc9745f4.chunk.js.map",
+    "runtime-main.js": "/Ipod-Mini-Project/static/js/runtime-main.a4cfcf8e.js",
+    "runtime-main.js.map": "/Ipod-Mini-Project/static/js/runtime-main.a4cfcf8e.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/Ipod-Mini-Project/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.747f51bc.chunk.js": "/Ipod-Mini-Project/static/js/2.747f51bc.chunk.js",
+    "static/js/2.747f51bc.chunk.js.map": "/Ipod-Mini-Project/static/js/2.747f51bc.chunk.js.map",
+    "index.html": "/Ipod-Mini-Project/index.html",
+    "precache-manifest.f12969bb18d0c0c907b12363072afc1c.js": "/Ipod-Mini-Project/precache-manifest.f12969bb18d0c0c907b12363072afc1c.js",
+    "service-worker.js": "/Ipod-Mini-Project/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/Ipod-Mini-Project/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.69eda509.chunk.css.map": "/Ipod-Mini-Project/static/css/main.69eda509.chunk.css.map",
+    "static/js/2.747f51bc.chunk.js.LICENSE.txt": "/Ipod-Mini-Project/static/js/2.747f51bc.chunk.js.LICENSE.txt",
+    "static/media/Senorita.mp3": "/Ipod-Mini-Project/static/media/Senorita.9ba16188.mp3",
+    "static/media/safaid.JPG": "/Ipod-Mini-Project/static/media/safaid.72d353e6.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4cfcf8e.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.747f51bc.chunk.js",
+    "static/css/main.69eda509.chunk.css",
+    "static/js/main.cc9745f4.chunk.js"
+  ]
+}
